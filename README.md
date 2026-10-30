@@ -1,5 +1,11 @@
 # SportsPulse — IPL Performance & Strategy Intelligence
 
+## 🚀 Live Demo
+
+**Try SportsPulse here:** [Open Live Dashboard](https://sportspulse-6vqhbfnkve3pkxddue5kg3.streamlit.app/)
+
+Explore historical IPL performance, player statistics, team analytics and match insights.
+
 SportsPulse is a Streamlit-based cricket analytics dashboard built around historical Indian Premier League (IPL) ball-by-ball data.
 
 ## Features
